@@ -8,7 +8,7 @@ Additionally, we are working on a machine learning model designed to process var
 
 ## user panel ---- DONE
 ## admin panel --- Partially Completed
-## predicting price and best routes/transmission method  ---- Done just dealing with  efficiecny.
+## predicting price and best routes/transmission method  ---- Done just dealing with  efficiency.
 ## scheduling --- under progress
 
 ## Features
