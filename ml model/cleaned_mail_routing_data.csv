@@ -1,0 +1,676 @@
+Package Type,Source Location,Destination Location,Distance (km),Weight (kg),Urgency Level,Mode of Transmission,Estimated Cost (₹),Delivery Slot (Days),Actual Delivery Time (Days),Delay (Yes/No)
+Document,Mumbai,Delhi,1400,0.5,High,Air,500,2,2,No
+Parcel,Kolkata,Chennai,1670,5,Medium,Road,5000,4,6,Yes
+Small Packet,Pune,Bangalore,835,1.2,Low,Rail,350,3,3,No
+Heavy Parcel,Lucknow,Ahmedabad,1350,20,High,Air,5000,2,3,Yes
+Letter,Jaipur,Mumbai,1180,0.1,Medium,Road,1573.33333333333,4,4,No
+Document,Delhi,Kolkata,1450,0.3,High,Air,600,2,2,No
+Parcel,Hyderabad,Chennai,625,3,Medium,Rail,5500,4,5,Yes
+Small Packet,Surat,Indore,530,2,Low,Road,266.666666666667,4,4,No
+Heavy Parcel,Bhopal,Jaipur,590,25,High,Air,3125,2,3,Yes
+Letter,Mumbai,Pune,150,0.2,Low,Road,508.474576271186,1,1,No
+Small Packet,Jaipur,Indore,1439,12.2,Medium,Road,6100,4,4,No
+Document,Mumbai,Delhi,1607,24.2,High,Air,2590.59016393443,1,2,Yes
+Parcel,Hyderabad,Bangalore,447,0.2,Low,Road,1356,2,6,No
+Heavy Parcel,Bangalore,Kolkata,286,22.2,High,Rail,150516,2,1,No
+Letter,Lucknow,Jaipur,1723,10.6,Low,Road,9416.25524475524,6,7,Yes
+Small Packet,Chennai,Mumbai,568,23.9,Medium,Road,4121.62264150943,4,5,Yes
+Heavy Parcel,Delhi,Hyderabad,1651,11,Medium,Rail,4057.73943661972,4,5,Yes
+Letter,Bhopal,Bangalore,1543,4.2,Medium,Road,1232.71774682011,4,5,No
+Parcel,Chennai,Delhi,1548,5.7,Medium,Rail,1520,1,2,Yes
+Heavy Parcel,Pune,Indore,721,18.3,Medium,Rail,4661.68421052632,2,2,No
+Letter,Chennai,Bhopal,397,24.9,Medium,Rail,2249.16393442623,4,5,Yes
+Heavy Parcel,Mumbai,Ahmedabad,567,12.8,Medium,Road,488.448362720403,4,5,Yes
+Document,Bangalore,Ahmedabad,1002,6.9,Medium,Air,1015,2,3,Yes
+Document,Indore,Lucknow,655,2.7,Low,Road,1154,5,6,Yes
+Document,Chennai,Bhopal,428,23.9,High,Rail,10215.037037037,2,3,Yes
+Letter,Bangalore,Surat,607,22.1,High,Air,798,2,6,No
+Small Packet,Delhi,Chennai,537,17.1,High,Road,1595,2,3,Yes
+Parcel,Kolkata,Bangalore,550,4,Medium,Road,1875,4,5,Yes
+Letter,Bhopal,Bangalore,1961,18.6,Low,Rail,8718.75,1,6,No
+Document,Pune,Ahmedabad,993,2.1,High,Rail,910.967363590005,2,4,Yes
+Letter,Kolkata,Jaipur,1940,15.8,Low,Rail,4980.76190476191,7,8,Yes
+Letter,Pune,Bhopal,1321,3.9,High,Road,1185,2,3,No
+Small Packet,Bangalore,Kolkata,330,24.9,High,Rail,7565.76923076923,1,2,Yes
+Parcel,Delhi,Mumbai,1951,24.5,Low,Road,1785.46060606061,3,6,No
+Letter,Kolkata,Indore,1896,23.6,Low,Road,1262.84081632653,5,6,Yes
+Heavy Parcel,Mumbai,Bhopal,1008,23.2,High,Rail,1521,2,5,No
+Parcel,Ahmedabad,Surat,257,21.2,High,Road,1490,2,6,Yes
+Parcel,Pune,Hyderabad,1042,23.7,Medium,Air,1665.70754716981,3,5,No
+Heavy Parcel,Lucknow,Mumbai,725,24.4,Low,Air,1131,4,7,Yes
+Small Packet,Ahmedabad,Bangalore,1532,17,Medium,Road,787.991803278689,2,7,Yes
+Letter,Delhi,Bangalore,953,11.8,Medium,Road,422.717647058824,3,7,Yes
+Parcel,Chennai,Bhopal,534,1.2,Low,Road,172.023084994753,4,5,No
+Letter,Lucknow,Indore,1641,20.8,Low,Air,2756,4,2,No
+Heavy Parcel,Jaipur,Kolkata,701,9.5,Medium,Road,729,4,5,Yes
+Letter,Surat,Indore,1301,9.7,High,Air,1655,2,1,No
+Small Packet,Kolkata,Pune,1418,24.8,High,Road,4231.34020618557,2,3,Yes
+Letter,Jaipur,Jaipur,306,0.1,Medium,Air,1229,2,7,No
+Parcel,Pune,Jaipur,268,8.6,Medium,Air,105694,4,3,No
+Small Packet,Hyderabad,Ahmedabad,780,8.5,Low,Road,1719.76744186047,6,5,No
+Letter,Bangalore,Hyderabad,1968,8.6,Low,Rail,1908,7,7,No
+Letter,Bhopal,Indore,1396,12.3,High,Road,2728.88372093023,2,4,Yes
+Small Packet,Indore,Surat,1650,15.5,High,Rail,1301,2,5,Yes
+Small Packet,Lucknow,Mumbai,1704,22.3,Medium,Air,1871.76129032258,4,5,Yes
+Document,Jaipur,Chennai,1769,21.8,High,Air,1620.82511210762,2,6,No
+Letter,Mumbai,Bhopal,835,0.6,High,Road,1560,2,6,No
+Parcel,Bhopal,Ahmedabad,1877,12.2,High,Air,31720,2,3,Yes
+Heavy Parcel,Ahmedabad,Jaipur,980,22,High,Rail,1732.95081967213,2,4,Yes
+Document,Pune,Hyderabad,896,4.8,Medium,Road,1885,1,5,Yes
+Letter,Surat,Delhi,1297,9.5,Medium,Road,3730.72916666667,3,7,No
+Small Packet,Jaipur,Kolkata,1908,21.9,Low,Air,2713.29473684211,6,7,No
+Heavy Parcel,Delhi,Kolkata,653,16.2,Medium,Air,1367.75342465753,4,5,Yes
+Small Packet,Hyderabad,Chennai,1957,14.6,Low,Air,319.037037037037,7,2,No
+Parcel,Surat,Kolkata,950,1.6,High,Air,1072,2,4,No
+Parcel,Ahmedabad,Indore,1603,17.5,Medium,Rail,11725,3,5,No
+Document,Ahmedabad,Bhopal,293,19,High,Road,1173.65714285714,2,6,Yes
+Heavy Parcel,Chennai,Mumbai,579,23.6,Medium,Road,695.578947368421,4,3,No
+Small Packet,Ahmedabad,Bangalore,543,10.5,High,Rail,1316,2,5,Yes
+Small Packet,Ahmedabad,Jaipur,636,18.7,Medium,Air,2343.73333333333,4,5,No
+Document,Chennai,Bangalore,427,14.8,Medium,Road,1855,2,3,Yes
+Letter,Delhi,Delhi,490,13.4,Low,Rail,1679.52702702703,5,1,No
+Parcel,Hyderabad,Pune,1273,23.6,Medium,Rail,2648.83582089552,1,7,Yes
+Letter,Surat,Pune,644,4.2,Low,Road,1439,1,4,No
+Letter,Jaipur,Bhopal,733,23.6,Low,Rail,8085.80952380952,4,1,No
+Small Packet,Hyderabad,Bangalore,711,7.3,Low,Rail,1787,5,4,No
+Heavy Parcel,Kolkata,Jaipur,1125,11.5,High,Rail,2815.13698630137,1,6,No
+Document,Chennai,Lucknow,1642,3.9,High,Air,2503.13777777778,2,3,Yes
+Document,Lucknow,Indore,1791,16.8,Low,Rail,7796.92307692308,6,3,No
+Small Packet,Chennai,Pune,1932,13.2,Low,Rail,1407,4,5,Yes
+Letter,Surat,Hyderabad,485,18.6,Low,Road,1982.59090909091,6,1,No
+Parcel,Indore,Ahmedabad,1080,4.8,High,Air,3068.53608247423,2,3,Yes
+Heavy Parcel,Mumbai,Kolkata,748,6.9,Low,Air,1802,1,4,No
+Document,Ahmedabad,Jaipur,714,1.7,Medium,Road,1812,4,2,No
+Small Packet,Surat,Indore,522,15.5,Low,Air,16521.1764705882,7,8,Yes
+Heavy Parcel,Hyderabad,Pune,401,8.1,High,Rail,455.690322580645,2,1,No
+Parcel,Chennai,Ahmedabad,859,7.1,Medium,Road,394.444444444445,3,3,No
+Heavy Parcel,Hyderabad,Bhopal,1397,4.4,Medium,Air,935,4,5,Yes
+Letter,Lucknow,Indore,228,14.6,High,Road,3102.5,2,4,No
+Heavy Parcel,Chennai,Indore,1323,1.5,High,Rail,6052.14473684211,2,4,Yes
+Parcel,Lucknow,Bangalore,1010,2.1,Low,Rail,1748.6,5,7,Yes
+Document,Bhopal,Jaipur,1739,11.7,High,Rail,4574.14285714286,2,3,No
+Letter,Bhopal,Chennai,622,0.5,High,Air,1566,2,7,No
+Document,Bangalore,Surat,1337,15.7,Low,Rail,49172.4,1,4,No
+Small Packet,Ahmedabad,Bhopal,907,21.7,High,Road,1648.92356687898,2,7,Yes
+Heavy Parcel,Bhopal,Surat,1495,4.8,Medium,Air,347.502304147466,4,2,No
+Document,Bangalore,Bhopal,1469,1.4,Medium,Air,839,4,1,No
+Parcel,Bhopal,Hyderabad,753,7.6,High,Rail,4554.57142857143,2,5,Yes
+Document,Bhopal,Lucknow,742,9.9,High,Rail,2534.92105263158,2,6,No
+Document,Chennai,Jaipur,935,21.4,High,Road,3672.58585858586,2,5,Yes
+Document,Kolkata,Mumbai,1992,17.9,High,Air,1522.33644859813,1,4,No
+Parcel,Indore,Lucknow,1384,4,Low,Road,1950,2,6,Yes
+Letter,Jaipur,Ahmedabad,1504,10.3,Medium,Road,5021.25,2,7,No
+Parcel,Ahmedabad,Pune,610,0.2,High,Rail,1787,2,2,No
+Heavy Parcel,Surat,Bangalore,1072,21.9,Medium,Rail,195676.5,4,6,Yes
+Letter,Hyderabad,Mumbai,558,21.8,Low,Rail,1206,2,2,No
+Heavy Parcel,Pune,Hyderabad,922,18.1,High,Rail,1992.70967741936,2,1,No
+Parcel,Ahmedabad,Jaipur,847,8.1,High,Road,1805,2,4,Yes
+Heavy Parcel,Ahmedabad,Kolkata,932,8.3,High,Rail,1849.56790123457,2,5,No
+Document,Pune,Ahmedabad,1602,16.1,Medium,Rail,2036.74698795181,1,6,Yes
+Heavy Parcel,Indore,Pune,1565,24.6,High,Air,2214,2,4,Yes
+Small Packet,Surat,Hyderabad,1506,2.2,Low,Rail,850.673482428115,2,3,Yes
+Parcel,Ahmedabad,Lucknow,1812,0.9,Low,Road,1081,4,7,No
+Document,Surat,Lucknow,618,23.6,Low,Air,28346.2222222222,1,6,No
+Heavy Parcel,Mumbai,Delhi,740,24.7,Medium,Road,389.338983050847,4,5,Yes
+Small Packet,Bhopal,Delhi,845,1.2,High,Road,327.722972972973,1,6,No
+Small Packet,Ahmedabad,Kolkata,788,14.8,Medium,Rail,3946.66666666667,4,3,No
+Parcel,Lucknow,Delhi,842,24.6,High,Rail,920.837837837838,2,3,Yes
+Parcel,Delhi,Ahmedabad,891,24.3,Medium,Rail,454,3,6,No
+Small Packet,Bangalore,Hyderabad,1705,18,Low,Air,868.765432098766,3,3,No
+Document,Bangalore,Surat,1196,7.3,Medium,Rail,319.86862170088,4,5,No
+Parcel,Ahmedabad,Pune,1598,4.1,High,Rail,1255,2,3,Yes
+Parcel,Indore,Bangalore,785,5.5,Low,Road,1683.53658536585,4,2,No
+Document,Lucknow,Surat,1511,19.7,Medium,Rail,4778.14545454545,4,5,Yes
+Document,Delhi,Mumbai,2821,13.5,Low,Road,1452.50694904037,5,6,Yes
+Heavy Parcel,Pune,Hyderabad,1221,28.1,High,Rail,2901.58518518519,2,3,Yes
+Letter,Surat,Bangalore,2664,21.2,High,Air,1067,1,6,No
+Heavy Parcel,Lucknow,Chennai,985,16.5,High,Air,2087,2,3,No
+Document,Mumbai,Chennai,1419,1.1,Low,Air,3006.55126903553,5,6,Yes
+Letter,Chennai,Pune,1755,7.3,High,Rail,9304.18181818182,2,7,No
+Document,Jaipur,Ahmedabad,2897,12,Medium,Road,4295.34246575343,1,6,Yes
+Small Packet,Surat,Ahmedabad,756,1.1,Low,Air,1024,5,3,No
+Small Packet,Indore,Mumbai,2296,7.8,High,Road,7261.09090909091,2,3,Yes
+Heavy Parcel,Surat,Indore,1346,33.7,High,Rail,8576.21794871795,2,3,No
+Document,Chennai,Mumbai,1323,2,High,Road,2882,2,3,Yes
+Small Packet,Chennai,Pune,1322,9.3,Low,Rail,13401.3,4,3,No
+Small Packet,Pune,Mumbai,460,20.4,Low,Air,1991.74193548387,2,7,No
+Small Packet,Jaipur,Surat,718,8.8,High,Air,2726.83913043478,2,5,No
+Small Packet,Pune,Delhi,407,10.4,High,Road,1076,2,4,No
+Heavy Parcel,Mumbai,Lucknow,533,24.9,Low,Air,2576.19230769231,1,5,Yes
+Document,Jaipur,Hyderabad,1677,11.4,Medium,Air,562.674698795181,4,2,No
+Document,Kolkata,Delhi,1724,30.6,High,Rail,2328,2,4,No
+Parcel,Indore,Bhopal,348,1.3,High,Air,1658,1,4,No
+Small Packet,Delhi,Indore,1096,15.7,Medium,Rail,20023.5384615385,4,4,No
+Small Packet,Hyderabad,Jaipur,1107,19.6,Low,Rail,1563.00636942675,5,6,Yes
+Small Packet,Indore,Delhi,714,20,High,Rail,1882,2,4,Yes
+Small Packet,Indore,Pune,2004,11.2,Low,Rail,5282.25210084034,6,3,No
+Letter,Kolkata,Pune,1544,49.1,Low,Air,9179.94642857143,1,3,Yes
+Small Packet,Bangalore,Chennai,2616,15.7,High,Road,3864.69948186529,1,3,No
+Document,Bhopal,Kolkata,2695,32,Medium,Air,2811,4,3,No
+Document,Jaipur,Kolkata,940,18.2,Low,Air,1598.75625,7,8,Yes
+Parcel,Ahmedabad,Surat,2574,42.2,Medium,Air,2199,4,5,Yes
+Document,Indore,Surat,702,48.2,Low,Road,2511.65402843602,3,9,Yes
+Heavy Parcel,Mumbai,Delhi,1674,5.6,High,Rail,3705.69230769231,2,1,No
+Heavy Parcel,Lucknow,Mumbai,1009,8.1,High,Road,853,2,3,No
+Letter,Delhi,Hyderabad,341,3.5,Low,Rail,2625,1,8,Yes
+Heavy Parcel,Surat,Hyderabad,2983,20,Medium,Rail,15000,4,7,Yes
+Small Packet,Kolkata,Bangalore,775,23.4,Low,Road,983,2,8,Yes
+Small Packet,Jaipur,Lucknow,2615,11.7,High,Rail,3316.83225806452,2,3,Yes
+Small Packet,Chennai,Ahmedabad,2760,31.5,Low,Rail,7751.15384615385,3,3,No
+Parcel,Chennai,Delhi,1181,37.4,Low,Air,2318.8,3,9,Yes
+Parcel,Chennai,Pune,1268,25.9,Low,Air,1675,4,7,No
+Small Packet,Kolkata,Delhi,2473,44.3,High,Air,2864.96138996139,1,4,Yes
+Letter,Bhopal,Kolkata,1176,30.4,Low,Air,1375.89164785553,3,6,Yes
+Parcel,Indore,Pune,548,44.7,Medium,Road,2389,1,4,No
+Document,Surat,Jaipur,421,12.2,Low,Air,2225,2,3,Yes
+Parcel,Jaipur,Surat,2728,31.7,High,Road,5781.35245901639,2,8,No
+Letter,Hyderabad,Indore,2082,16.9,Medium,Road,1373,1,3,No
+Parcel,Ahmedabad,Lucknow,775,12.3,High,Rail,1610,2,6,Yes
+Small Packet,Mumbai,Bhopal,668,20.1,High,Road,2630.9756097561,2,8,No
+Letter,Jaipur,Delhi,775,30.8,Low,Air,3991.74129353234,3,4,Yes
+Heavy Parcel,Delhi,Indore,1857,48.3,Medium,Rail,1114.97727272727,3,6,Yes
+Letter,Bangalore,Chennai,2842,13.2,Medium,Road,2626,1,7,No
+Small Packet,Bhopal,Kolkata,1828,7.5,High,Road,2120,2,4,No
+Heavy Parcel,Surat,Hyderabad,508,34.3,Medium,Rail,9695.46666666667,1,5,Yes
+Small Packet,Indore,Ahmedabad,1537,30.1,Low,Road,5918.05511811024,1,2,Yes
+Parcel,Mumbai,Ahmedabad,571,45.8,Low,Air,3972.88372093023,4,5,Yes
+Small Packet,Indore,Surat,258,14.1,High,Rail,1755,2,8,No
+Letter,Surat,Lucknow,1325,10.6,High,Air,9013.08139534884,2,4,Yes
+Small Packet,Lucknow,Chennai,699,42.7,Medium,Rail,10811.9622641509,2,8,No
+Heavy Parcel,Jaipur,Delhi,2409,21.1,High,Rail,7967.96566523605,2,6,No
+Letter,Lucknow,Jaipur,1699,24.1,Low,Rail,3294.04739336493,4,6,No
+Letter,Surat,Delhi,555,21.8,Low,Rail,2879,1,2,Yes
+Small Packet,Surat,Kolkata,920,7.7,High,Rail,4772.3963963964,2,3,Yes
+Parcel,Lucknow,Indore,1953,47.1,Low,Road,16215.8571428571,7,8,Yes
+Letter,Mumbai,Pune,1784,1.8,Medium,Rail,2905,3,4,Yes
+Document,Hyderabad,Chennai,1592,26.6,Medium,Air,42929.4444444445,1,2,Yes
+Small Packet,Delhi,Jaipur,665,13.7,High,Road,1816,2,9,No
+Document,Delhi,Bangalore,2777,38.5,High,Rail,5103.35766423358,2,3,Yes
+Small Packet,Indore,Bhopal,767,2.3,High,Road,1552,1,7,Yes
+Document,Delhi,Bangalore,2179,24.2,Medium,Rail,16329.7391304348,4,7,Yes
+Document,Lucknow,Surat,547,30.1,High,Rail,3327.1694214876,2,8,No
+Document,Bhopal,Ahmedabad,2411,35.1,High,Road,2923.44518272425,2,6,No
+Document,Hyderabad,Indore,1939,21.6,High,Rail,2145,2,6,Yes
+Parcel,Hyderabad,Indore,1751,13.8,Low,Road,1370.41666666667,2,7,Yes
+Document,Indore,Ahmedabad,157,24.4,High,Road,2758,2,4,No
+Small Packet,Lucknow,Pune,2978,40.1,High,Air,4532.61475409836,2,4,No
+Letter,Bangalore,Ahmedabad,2192,7.8,High,Rail,2394,2,2,No
+Document,Bangalore,Pune,294,49,Low,Road,15039.2307692308,6,6,No
+Parcel,Bhopal,Kolkata,1858,10.2,Low,Rail,14282.5850340136,4,5,Yes
+Document,Lucknow,Hyderabad,1040,32.2,Low,Road,6837.76470588235,4,3,No
+Letter,Surat,Chennai,2617,1.2,High,Air,3122.78557692308,1,5,No
+Heavy Parcel,Mumbai,Bangalore,556,20,High,Road,37700,2,3,Yes
+Document,Bhopal,Hyderabad,2175,19.5,Low,Air,2818.725,3,8,No
+Document,Lucknow,Indore,2367,49.8,Low,Rail,6772.8,6,7,No
+Small Packet,Kolkata,Surat,2895,48,Medium,Air,2330,4,7,No
+Letter,Hyderabad,Indore,1086,29.6,High,Rail,1496,1,5,No
+Heavy Parcel,Delhi,Kolkata,2000,47.7,High,Rail,2410.78378378378,2,3,Yes
+Heavy Parcel,Pune,Delhi,1414,11.8,Low,Air,2062,4,5,Yes
+Small Packet,Bhopal,Indore,618,15.8,Medium,Air,2760.98305084746,3,6,No
+Small Packet,Surat,Kolkata,2581,48.1,High,Road,2593.74683544304,2,5,Yes
+Letter,Ahmedabad,Bhopal,1025,36.7,High,Rail,775.964656964657,2,6,Yes
+Document,Ahmedabad,Lucknow,391,0.5,Low,Rail,192,4,7,No
+Letter,Kolkata,Surat,1023,31.5,Low,Air,12096,2,6,Yes
+Letter,Mumbai,Bangalore,845,30.5,Low,Air,723.285714285714,6,7,Yes
+Letter,Pune,Lucknow,505,41.4,Medium,Road,2820,4,5,No
+Small Packet,Delhi,Pune,2578,7.5,Medium,Air,14395.9603960396,4,7,No
+Document,Hyderabad,Kolkata,959,4.1,Low,Air,2117,1,4,No
+Small Packet,Lucknow,Indore,994,40.7,Medium,Road,21015.0975609756,4,5,Yes
+Letter,Kolkata,Bhopal,2840,0.8,Low,Air,4774.28571428572,5,7,Yes
+Document,Delhi,Indore,1061,32.6,Medium,Rail,58843,1,5,Yes
+Parcel,Ahmedabad,Pune,630,46.2,Low,Road,3199.98773006135,6,3,No
+Small Packet,Jaipur,Kolkata,1241,6.6,High,Air,3023.70634920635,2,6,Yes
+Parcel,Hyderabad,Chennai,1447,21.3,Medium,Rail,5279.81818181818,4,4,No
+Heavy Parcel,Bhopal,Pune,1019,38.4,Medium,Road,4489.01408450704,2,3,Yes
+Document,Indore,Hyderabad,663,47.3,Medium,Road,2245.51822916667,1,8,No
+Small Packet,Delhi,Bangalore,2872,35,Low,Air,1845.35746606335,5,4,No
+Document,Jaipur,Indore,105,15.3,High,Rail,2840,2,7,No
+Letter,Surat,Mumbai,276,22.5,Medium,Road,4176.47058823529,4,9,No
+Letter,Ahmedabad,Delhi,806,35.2,Low,Road,3848.94202898551,6,5,No
+Letter,Kolkata,Indore,1249,5.1,Low,Air,4479.97394540943,1,4,No
+Heavy Parcel,Surat,Indore,1238,50,High,Rail,21411.7647058824,2,5,Yes
+Document,Indore,Chennai,362,33.3,High,Rail,2951,2,4,No
+Parcel,Chennai,Delhi,1301,27,Low,Rail,2392.7027027027,2,2,No
+Parcel,Hyderabad,Mumbai,2004,1.5,Low,Rail,3029.87548039969,4,3,No
+Document,Pune,Bhopal,1794,36.4,Medium,Road,44335.2,4,6,No
+Parcel,Indore,Kolkata,1260,17.2,Low,Road,2085,4,1,No
+Small Packet,Bangalore,Hyderabad,1439,19.7,Low,Road,2388.0523255814,5,5,No
+Letter,Lucknow,Bhopal,857,41,High,Air,2622.33502538071,2,3,Yes
+Heavy Parcel,Surat,Bangalore,1209,47.5,High,Road,792.439024390244,2,2,No
+Parcel,Pune,Bangalore,2691,43,Medium,Road,694.336842105263,4,2,No
+Parcel,Bhopal,Pune,125,45.6,Medium,Road,1467,4,5,No
+Parcel,Ahmedabad,Hyderabad,2261,46.2,Medium,Rail,26535.096,4,7,Yes
+Small Packet,Ahmedabad,Chennai,258,46.6,Low,Rail,1858.95670995671,3,4,Yes
+Parcel,Surat,Bangalore,496,34,Low,Air,607.768240343348,4,6,No
+Letter,Bhopal,Mumbai,177,14.1,High,Air,1483,2,3,No
+Letter,Lucknow,Indore,786,6.1,High,Air,6585.52542372881,2,5,Yes
+Small Packet,Lucknow,Pune,1197,22.3,Medium,Road,4511.18032786885,2,7,Yes
+Letter,Indore,Kolkata,2369,21.3,Low,Road,1746,2,5,Yes
+Parcel,Bhopal,Jaipur,1438,32.2,High,Road,2639.49295774648,2,6,Yes
+Heavy Parcel,Jaipur,Pune,2925,18.4,Low,Rail,3964.4123783032,7,7,No
+Letter,Bangalore,Jaipur,1797,37.5,High,Rail,3527.85326086957,2,4,Yes
+Heavy Parcel,Bangalore,Indore,1627,35.9,Low,Rail,400,5,6,Yes
+Parcel,Bhopal,Surat,1360,34.8,Low,Rail,1142,5,2,No
+Small Packet,Delhi,Bhopal,1770,15.5,High,Road,2056,2,5,No
+Document,Chennai,Surat,269,27.8,Medium,Road,3687.53548387097,4,5,No
+Letter,Pune,Indore,1789,27.8,Medium,Road,1802.30111524164,4,3,No
+Document,Ahmedabad,Mumbai,1870,7,Medium,Road,1812,1,2,No
+Parcel,Surat,Chennai,2459,30,Medium,Rail,7765.71428571429,2,5,Yes
+Document,Indore,Chennai,542,9.8,Low,Road,728.14,3,7,No
+Document,Kolkata,Jaipur,2271,9.4,Medium,Road,2701,4,5,Yes
+Letter,Kolkata,Lucknow,2906,47.2,High,Rail,13562.4680851064,1,3,No
+Letter,Pune,Chennai,1799,42.8,Low,Air,2142,2,6,No
+Parcel,Bhopal,Surat,1051,6.5,High,Road,1251.38521400778,1,4,Yes
+Parcel,Surat,Kolkata,2745,19.9,Low,Road,3159.50769230769,4,3,No
+Small Packet,Pune,Delhi,170,34.6,Low,Rail,2371.57788944724,3,9,No
+Small Packet,Jaipur,Bangalore,1031,34.1,Low,Air,11371.3235294118,4,1,No
+Heavy Parcel,Ahmedabad,Hyderabad,653,31.9,Low,Air,2553.87096774194,7,4,No
+Letter,Ahmedabad,Bhopal,137,21.6,Low,Road,1301,3,4,Yes
+Letter,Pune,Bhopal,1100,44.7,Low,Rail,2692.34722222222,5,9,No
+Small Packet,Surat,Kolkata,1890,46.3,Medium,Rail,2457,4,9,Yes
+Heavy Parcel,Bhopal,Hyderabad,2064,33.8,High,Air,2683.2,2,7,Yes
+Small Packet,Surat,Bangalore,371,13,Medium,Road,2033,4,6,No
+Parcel,Indore,Jaipur,695,7.7,High,Air,3808.45013477089,2,4,No
+Small Packet,Indore,Chennai,1451,23.2,Medium,Road,5537.87012987013,4,2,No
+Small Packet,Bhopal,Surat,1774,23.1,High,Road,1617,2,4,No
+Letter,Delhi,Indore,2180,3.2,Low,Road,806.133032694476,5,6,Yes
+Letter,Surat,Pune,1092,38.6,High,Road,7418.4375,2,3,Yes
+Document,Kolkata,Bangalore,1869,4.7,Low,Rail,871,6,8,No
+Letter,Kolkata,Chennai,158,45.2,High,Air,8376.42553191489,2,4,No
+Letter,Bhopal,Delhi,1009,39.9,Medium,Rail,718.553097345133,3,5,Yes
+Document,Surat,Chennai,2333,44.8,High,Air,802.80701754386,2,7,Yes
+Document,Indore,Hyderabad,1113,35.1,Medium,Air,1574,4,8,Yes
+Document,Ahmedabad,Jaipur,2039,42.1,High,Rail,2883.54537286613,2,3,No
+Letter,Mumbai,Surat,2738,29.2,Low,Air,1478.03325415677,2,1,No
+Heavy Parcel,Bangalore,Chennai,1497,29.7,Low,Road,2549,4,2,No
+Heavy Parcel,Surat,Indore,2471,23.7,Medium,Road,4207.46760187041,4,7,No
+Document,Pune,Bhopal,2748,24.9,Low,Road,3061.54430379747,2,6,Yes
+Parcel,Kolkata,Pune,2088,40.4,Medium,Air,1544.61044176707,4,6,No
+Parcel,Surat,Ahmedabad,1836,38.4,High,Rail,1246,2,6,Yes
+Parcel,Chennai,Pune,2218,8.1,Medium,Air,1505.2440087146,4,5,Yes
+Parcel,Bhopal,Delhi,703,19.4,Low,Road,2033.40740740741,2,7,No
+Small Packet,Ahmedabad,Surat,1527,13.5,High,Road,1178.11855670103,2,9,No
+Heavy Parcel,Lucknow,Delhi,1090,50,Medium,Rail,2040.74074074074,1,7,No
+Heavy Parcel,Pune,Surat,2861,31.3,Low,Road,3666.80458715596,5,4,No
+Small Packet,Kolkata,Surat,1157,19,High,Road,2888,2,6,Yes
+Parcel,Bangalore,Lucknow,2161,19.3,Low,Road,2933.6,6,7,Yes
+Small Packet,Chennai,Bangalore,1655,33.2,Medium,Rail,1371.00518134715,4,8,No
+Document,Delhi,Bangalore,571,39.6,Medium,Air,2476,3,6,No
+Document,Indore,Delhi,604,42.1,Medium,Road,2632.31313131313,4,5,No
+Letter,Ahmedabad,Chennai,2639,17.4,Low,Air,9891.88079470199,7,5,No
+Heavy Parcel,Pune,Bhopal,480,27,Low,Road,2628,5,6,Yes
+Document,Surat,Lucknow,2431,23,Medium,Road,2238.66666666667,1,6,No
+Document,Surat,Kolkata,2510,24.6,High,Road,2547,2,6,No
+Parcel,Jaipur,Bangalore,2292,11,Medium,Air,1138.90243902439,4,2,No
+Document,Surat,Delhi,2890,22.1,High,Road,2428,1,5,No
+Parcel,Bangalore,Lucknow,2674,23.9,Low,Rail,2625.7556561086,2,4,Yes
+Heavy Parcel,Hyderabad,Surat,651,41.3,Low,Road,3666.8870292887,3,4,Yes
+Document,Delhi,Ahmedabad,2116,46.3,Medium,Road,2717.32104454685,4,5,Yes
+Letter,Mumbai,Hyderabad,1967,5.7,Low,Air,2717,1,4,Yes
+Heavy Parcel,Bangalore,Pune,2252,33.2,Medium,Road,15825.3333333333,4,5,Yes
+Parcel,Indore,Delhi,774,4.9,Low,Road,2543,7,2,No
+Small Packet,Surat,Ahmedabad,2851,30.3,Medium,Air,15725.0816326531,4,5,No
+Small Packet,Bhopal,Delhi,1264,32.4,High,Rail,2765,2,8,No
+Small Packet,Hyderabad,Delhi,1802,14.9,Medium,Rail,1271.55864197531,4,8,No
+Letter,Hyderabad,Kolkata,2937,8.9,Low,Rail,2261,2,4,No
+Document,Bhopal,Lucknow,2595,14.9,Medium,Rail,3785.26966292135,4,3,No
+Document,Chennai,Kolkata,2318,49.5,Low,Road,2388.62416107383,7,8,No
+Parcel,Hyderabad,Indore,1386,48.8,Low,Road,1884.96161616162,5,7,Yes
+Letter,Indore,Surat,1105,12,Medium,Road,1629,3,3,No
+Parcel,Bhopal,Ahmedabad,303,25.6,Medium,Air,3475.2,4,9,No
+Small Packet,Ahmedabad,Delhi,967,39.9,Medium,Rail,4081.95703125,2,3,No
+Heavy Parcel,Surat,Mumbai,613,4.7,Low,Rail,2673,7,5,No
+Document,Ahmedabad,Delhi,642,1.9,Low,Air,2799.45513866232,2,5,Yes
+Parcel,Kolkata,Bangalore,110,3.1,Low,Rail,4499.89473684211,3,4,No
+Small Packet,Bhopal,Lucknow,1431,20.4,Low,Road,7337.41935483871,1,7,Yes
+Small Packet,Chennai,Hyderabad,2594,40.9,Medium,Rail,4551.12745098039,3,6,Yes
+Small Packet,Bhopal,Kolkata,2629,11.7,High,Air,1744,2,3,Yes
+Heavy Parcel,Surat,Bhopal,1203,17.5,Medium,Rail,2608.54700854701,1,8,Yes
+Small Packet,Delhi,Bangalore,2888,29.3,Low,Rail,3628.17714285714,6,5,No
+Letter,Indore,Bhopal,172,9.7,Low,Rail,2133,2,3,Yes
+Heavy Parcel,Hyderabad,Bangalore,2874,9.3,High,Road,2045.0412371134,2,3,Yes
+Document,Kolkata,Lucknow,252,44.5,Medium,Air,1540.75268817204,1,5,Yes
+Document,Lucknow,Pune,2028,7.3,Low,Air,4273.28571428572,5,7,Yes
+Letter,Bhopal,Surat,779,48.1,Medium,Road,15793.9315068493,4,6,Yes
+Small Packet,Bangalore,Hyderabad,1566,2.5,Low,Rail,717.666238767651,4,2,No
+Small Packet,Bangalore,Ahmedabad,1293,12.3,Low,Rail,761,4,2,No
+Letter,Kolkata,Surat,2159,25.3,High,Road,1599,2,5,Yes
+Small Packet,Ahmedabad,Kolkata,1953,12.6,High,Air,1446.43214451135,1,2,No
+Letter,Bhopal,Jaipur,2094,0.6,Low,Rail,1343.4623655914,2,2,No
+Heavy Parcel,Surat,Chennai,854,7.6,Medium,Rail,3546.66666666667,3,4,Yes
+Heavy Parcel,Surat,Mumbai,1738,3.5,Low,Air,3720.21545667447,5,8,No
+Document,Ahmedabad,Jaipur,256,33,Low,Rail,8325.42857142857,5,6,Yes
+Document,Surat,Mumbai,2471,43.4,Low,Air,1165.22424242424,2,4,No
+Letter,Bangalore,Lucknow,2058,45.1,Medium,Rail,2694,4,4,No
+Document,Kolkata,Bangalore,550,32.4,Medium,Road,1935.37915742794,4,6,No
+Parcel,Surat,Indore,594,29.5,Low,Rail,1559,7,8,Yes
+Small Packet,Mumbai,Hyderabad,885,28.7,High,Road,1516.72203389831,2,2,No
+Letter,Hyderabad,Lucknow,2642,39.7,High,Rail,1133,2,4,No
+Small Packet,Chennai,Delhi,1867,49.8,Medium,Air,1560,4,5,Yes
+Heavy Parcel,Hyderabad,Delhi,2130,21.3,High,Rail,1779.75361542582,1,3,Yes
+Heavy Parcel,Kolkata,Lucknow,1496,38.2,Medium,Road,2248.95774647887,2,1,No
+Parcel,Indore,Jaipur,1506,35.5,Medium,Road,1715,4,9,Yes
+Document,Bhopal,Ahmedabad,1663,3.2,Low,Road,1893.78818061089,4,5,Yes
+Parcel,Hyderabad,Chennai,1538,38.5,Low,Road,7543.59375,7,8,Yes
+Document,Ahmedabad,Hyderabad,1697,18.5,Medium,Air,832.74025974026,1,3,No
+Document,Lucknow,Mumbai,569,10.3,Medium,Rail,2120,4,2,No
+Heavy Parcel,Surat,Jaipur,2101,3.9,Low,Rail,802.718446601942,3,6,No
+Document,Surat,Mumbai,1718,2.7,Low,Road,1055,2,3,No
+Parcel,Ahmedabad,Kolkata,1086,30.1,High,Air,11761.2962962963,2,7,Yes
+Document,Bangalore,Bhopal,337,43.2,Medium,Road,2035.13621262459,4,4,No
+Document,Kolkata,Pune,1640,28.4,Medium,Rail,1237.89814814815,4,6,Yes
+Document,Bangalore,Lucknow,1410,9,Medium,Rail,651,3,4,Yes
+Small Packet,Ahmedabad,Bhopal,1060,41.9,High,Air,3030.76666666667,2,6,No
+Document,Chennai,Jaipur,2659,8.4,Low,Rail,4492.70660377359,4,5,No
+Small Packet,Bangalore,Kolkata,787,48.8,Low,Air,3886.57142857143,7,8,No
+Small Packet,Bhopal,Chennai,953,40.4,Low,Rail,1115.26429479034,3,4,Yes
+Heavy Parcel,Lucknow,Hyderabad,2352,24,Medium,Road,2001.54459601259,4,5,Yes
+Small Packet,Hyderabad,Bhopal,1023,9,Low,Air,2026,4,5,Yes
+Heavy Parcel,Jaipur,Pune,2794,5.8,Low,Rail,5533.37634408602,2,7,Yes
+Document,Bangalore,Chennai,2512,29.9,High,Rail,12851.8448275862,2,3,No
+Heavy Parcel,Indore,Bangalore,250,26.7,Medium,Road,1340,4,6,Yes
+Parcel,Mumbai,Jaipur,211,17,Medium,Rail,853.183520599251,4,7,Yes
+Document,Chennai,Hyderabad,1131,26.9,Medium,Air,943.39336492891,1,4,Yes
+Letter,Mumbai,Bangalore,2411,31.1,Low,Air,1813,1,4,Yes
+Document,Pune,Ahmedabad,1180,36.3,Low,Rail,2116.13826366559,7,8,Yes
+Document,Mumbai,Lucknow,213,35,Low,Air,1926.44628099174,5,5,No
+Small Packet,Kolkata,Delhi,410,19.7,Low,Air,2098,5,8,Yes
+Parcel,Kolkata,Hyderabad,2128,41.9,Medium,Air,4462.24365482234,2,2,No
+Small Packet,Surat,Chennai,2219,11.6,Medium,Rail,878.006578947368,3,2,No
+Small Packet,Lucknow,Ahmedabad,1424,43.3,High,Air,2127.6724137931,2,6,Yes
+Document,Hyderabad,Pune,1760,13.9,High,Rail,2969,2,4,No
+Parcel,Bhopal,Ahmedabad,2661,13.3,High,Air,2840.84172661871,2,3,Yes
+Letter,Hyderabad,Lucknow,489,44.4,High,Rail,5772,1,6,No
+Letter,Jaipur,Pune,246,9.9,Low,Rail,1631,5,7,Yes
+Letter,Surat,Chennai,1175,32.9,Low,Air,5420.19191919192,3,4,Yes
+Heavy Parcel,Indore,Ahmedabad,1862,7.9,Medium,Air,1772,3,8,No
+Heavy Parcel,Mumbai,Kolkata,1086,11.4,Low,Road,2557.06329113924,7,5,No
+Heavy Parcel,Indore,Hyderabad,1806,50,Low,Air,8684.21052631579,4,5,No
+Parcel,Pune,Lucknow,1161,43.2,Medium,Road,2242.08,4,6,No
+Document,Lucknow,Chennai,886,19.6,Low,Air,1659,2,7,No
+Parcel,Kolkata,Bangalore,1770,40.5,High,Rail,3428.03571428571,2,5,Yes
+Letter,Chennai,Bhopal,441,15,High,Rail,1048.88888888889,2,6,No
+Document,Mumbai,Delhi,720,43.1,Medium,Air,1498,3,7,No
+Parcel,Jaipur,Ahmedabad,409,27.4,Low,Road,1119,3,7,Yes
+Parcel,Lucknow,Jaipur,2402,34.1,Medium,Road,6571.73105134474,4,5,No
+Letter,Indore,Lucknow,2638,23.4,High,Air,3013.60199833472,2,4,No
+Document,Pune,Jaipur,1933,44.7,High,Rail,4139.52564102564,2,3,No
+Heavy Parcel,Pune,Ahmedabad,2357,18.5,High,Rail,685.273667873771,2,1,No
+Small Packet,Ahmedabad,Indore,2888,6.2,Medium,Air,877,4,5,Yes
+Document,Hyderabad,Ahmedabad,2565,3.3,High,Rail,2864,2,7,Yes
+Parcel,Mumbai,Ahmedabad,2166,49.1,Medium,Air,42612.8484848485,2,5,Yes
+Letter,Kolkata,Ahmedabad,951,34.5,High,Air,2869,2,3,Yes
+Small Packet,Jaipur,Ahmedabad,656,3.5,Low,Road,1979.03680336488,6,7,No
+Parcel,Bangalore,Bhopal,2263,30.3,High,Air,10336.6285714286,2,3,Yes
+Document,Lucknow,Chennai,1529,37.2,Low,Rail,2807.80198019802,1,4,No
+Document,Chennai,Pune,1853,22,High,Air,2634,2,5,Yes
+Small Packet,Lucknow,Ahmedabad,1775,45.9,Medium,Rail,5495.48181818182,2,7,Yes
+Heavy Parcel,Indore,Lucknow,1258,27,High,Road,2015.63492957747,2,5,Yes
+Parcel,Chennai,Chennai,118,42.7,Low,Road,2648.98148148148,4,8,Yes
+Heavy Parcel,Bhopal,Pune,940,9.6,Medium,Road,4588.47457627119,4,8,No
+Heavy Parcel,Ahmedabad,Hyderabad,120,0.7,Medium,Road,2657,4,1,No
+Heavy Parcel,Chennai,Delhi,2286,4.6,High,Air,17460.2857142857,1,5,No
+Heavy Parcel,Jaipur,Mumbai,921,21.6,Low,Road,13349.7391304348,3,2,No
+Parcel,Bangalore,Pune,2395,29.6,Low,Air,4100.14814814815,6,3,No
+Small Packet,Kolkata,Chennai,2670,47.8,High,Road,1367.79054054054,2,8,Yes
+Small Packet,Mumbai,Indore,1107,5.9,Medium,Road,2932,1,2,No
+Parcel,Jaipur,Kolkata,1649,2.1,Medium,Road,1043.59322033898,3,9,No
+Heavy Parcel,Bangalore,Bhopal,2810,29.4,High,Rail,9016,1,7,Yes
+Small Packet,Indore,Surat,879,11.7,Low,Air,1404,4,5,Yes
+Document,Hyderabad,Kolkata,2507,27.1,Medium,Rail,3252,2,9,No
+Heavy Parcel,Indore,Bangalore,978,15.5,Low,Air,2909,2,7,No
+Small Packet,Kolkata,Indore,1131,22,Low,Rail,4128.90322580645,5,6,Yes
+Document,Ahmedabad,Pune,1876,22.3,Low,Road,2085,1,8,No
+Letter,Bangalore,Surat,2896,1.3,Low,Air,3218.63539445629,6,7,Yes
+Heavy Parcel,Jaipur,Pune,1262,19.9,Medium,Road,20083.6923076923,1,9,Yes
+Document,Ahmedabad,Bangalore,832,28.7,Medium,Road,1075,2,3,No
+Parcel,Delhi,Ahmedabad,224,9.9,Low,Air,2256,3,4,No
+Letter,Ahmedabad,Lucknow,2839,27.7,Medium,Rail,6312.24242424242,4,6,Yes
+Letter,Kolkata,Hyderabad,2366,7.5,Medium,Rail,950.900317013033,4,5,Yes
+Small Packet,Chennai,Kolkata,467,47.8,High,Air,5130.53333333333,2,7,No
+Small Packet,Delhi,Surat,2492,40.9,Medium,Rail,2500.2050209205,1,7,No
+Letter,Ahmedabad,Chennai,276,0.7,Low,Rail,2561,3,6,Yes
+Parcel,Delhi,Kolkata,1897,28.6,Medium,Road,104635.142857143,4,7,Yes
+Small Packet,Kolkata,Hyderabad,2157,14.9,High,Road,1355.58741258741,2,9,Yes
+Letter,Indore,Hyderabad,2279,14.8,Medium,Rail,1287.30201342282,4,5,Yes
+Parcel,Mumbai,Delhi,169,40.4,Medium,Road,933.567567567567,4,7,Yes
+Document,Indore,Pune,2045,4.5,Medium,Rail,9632.07100591716,2,3,Yes
+Document,Hyderabad,Indore,887,47.5,Low,Air,22705,3,5,Yes
+Heavy Parcel,Bangalore,Lucknow,652,33.4,Medium,Road,978,1,8,Yes
+Parcel,Pune,Mumbai,674,1.3,High,Road,1031,1,4,No
+Document,Indore,Surat,273,25.1,High,Air,19906.2307692308,2,8,Yes
+Parcel,Hyderabad,Bhopal,1571,43.1,High,Air,3132.04780876494,2,3,No
+Small Packet,Delhi,Kolkata,2488,3.2,High,Road,3400.21387651178,2,5,Yes
+Letter,Delhi,Bangalore,297,14.8,High,Road,4208.75,2,8,Yes
+Heavy Parcel,Chennai,Ahmedabad,1138,27.2,High,Air,2636.17508417509,1,7,Yes
+Document,Surat,Hyderabad,2501,38.9,Medium,Air,1887.79411764706,4,5,Yes
+Parcel,Bhopal,Ahmedabad,829,17.7,High,Air,2501,2,7,No
+Small Packet,Mumbai,Hyderabad,2165,6.9,Medium,Road,974.966101694915,4,9,No
+Heavy Parcel,Jaipur,Kolkata,2963,49.4,High,Road,2995,1,3,Yes
+Small Packet,Surat,Mumbai,1904,24.3,Medium,Rail,1473.24898785425,3,7,No
+Small Packet,Ahmedabad,Indore,1942,46.2,Low,Air,2122,4,2,No
+Heavy Parcel,Hyderabad,Kolkata,1701,18.9,Medium,Rail,1858.66220391349,1,5,No
+Letter,Pune,Kolkata,1696,34.6,Low,Rail,2749.69312169312,6,3,No
+Heavy Parcel,Hyderabad,Bangalore,1787,5.9,High,Road,2130,2,5,No
+Parcel,Pune,Bhopal,734,41.5,High,Air,14982.2033898305,2,5,Yes
+Letter,Bangalore,Delhi,1568,11.5,High,Air,6122.46321525886,2,3,Yes
+Small Packet,Mumbai,Delhi,2949,23.2,High,Road,1987.13043478261,2,5,Yes
+Letter,Bangalore,Kolkata,2483,38.4,Low,Air,2039,6,7,Yes
+Document,Bhopal,Chennai,524,47,Low,Road,2495.65104166667,3,5,Yes
+Heavy Parcel,Pune,Delhi,2435,0.5,High,Rail,2945,2,3,No
+Heavy Parcel,Lucknow,Surat,959,43,Low,Road,253270,2,3,Yes
+Heavy Parcel,Pune,Mumbai,2400,42.9,Low,Road,1019.62325581395,6,7,Yes
+Letter,Chennai,Indore,994,40.2,Medium,Road,723.412587412587,4,5,Yes
+Parcel,Ahmedabad,Kolkata,2155,32.9,High,Air,2132,2,4,No
+Letter,Surat,Kolkata,1295,28.9,Medium,Air,1919,3,7,Yes
+Small Packet,Indore,Jaipur,508,42.4,Low,Rail,2815.41868512111,7,2,No
+Small Packet,Lucknow,Kolkata,2048,12.7,Low,Rail,7732.4094488189,3,5,No
+Letter,Delhi,Chennai,2324,16.2,Medium,Road,2694.04724409449,4,8,Yes
+Heavy Parcel,Hyderabad,Mumbai,2960,22,Low,Air,2634,7,3,No
+Letter,Lucknow,Chennai,1976,20.9,Low,Rail,2502.3,4,7,Yes
+Letter,Ahmedabad,Bhopal,2465,14.7,High,Road,1939,2,7,No
+Parcel,Pune,Chennai,1931,7.2,Medium,Rail,2692,4,6,No
+Letter,Chennai,Lucknow,1974,26.2,High,Rail,9795.88888888889,1,5,Yes
+Heavy Parcel,Indore,Pune,1623,18.1,High,Road,1503.26717557252,1,5,No
+Small Packet,Surat,Bhopal,1534,40.7,High,Rail,3105.34254143646,2,7,No
+Heavy Parcel,Pune,Bangalore,810,12.5,High,Rail,842.751842751843,2,5,No
+Document,Chennai,Hyderabad,1951,3.8,Medium,Rail,2619,4,6,Yes
+Heavy Parcel,Jaipur,Indore,1047,3.7,Medium,Rail,2550.07894736842,4,3,No
+Small Packet,Delhi,Mumbai,2922,18.2,High,Road,8578.5945945946,2,6,No
+Heavy Parcel,Bangalore,Bhopal,2901,9.7,High,Air,1441,2,8,No
+Document,Surat,Jaipur,1178,8.8,Medium,Rail,1307.29896907217,2,5,No
+Letter,Jaipur,Indore,1019,18.1,Medium,Rail,1565.23863636364,4,7,Yes
+Letter,Kolkata,Lucknow,2188,33.9,Low,Air,2517.21546961326,5,7,No
+Document,Chennai,Pune,1926,20.9,High,Air,1315.03539823009,2,6,Yes
+Small Packet,Delhi,Indore,2663,13.6,Medium,Air,2569,4,5,Yes
+Document,Jaipur,Pune,480,28.7,High,Road,5421.3455882353,2,7,No
+Parcel,Chennai,Ahmedabad,1338,7.9,High,Air,1452.2875,2,8,No
+Heavy Parcel,Delhi,Bangalore,373,14.9,High,Rail,1889.84810126582,2,5,No
+Parcel,Indore,Mumbai,406,7.6,Low,Air,2414,3,7,Yes
+Parcel,Jaipur,Kolkata,965,0.8,High,Road,5737.70935960591,2,6,Yes
+Small Packet,Mumbai,Bhopal,1901,26.6,Medium,Rail,30058,4,4,No
+Small Packet,Bhopal,Pune,2519,32.8,High,Rail,560,2,3,No
+Letter,Bhopal,Lucknow,2716,5.7,High,Air,1588,2,8,Yes
+Small Packet,Indore,Delhi,182,46.1,Medium,Road,12843.298245614,4,5,No
+Small Packet,Kolkata,Bhopal,628,39.6,High,Air,1445.78021978022,2,8,Yes
+Small Packet,Hyderabad,Kolkata,1171,0.9,High,Air,2610,2,7,No
+Document,Surat,Delhi,2078,25.3,Medium,Rail,73370,1,8,No
+Document,Ahmedabad,Hyderabad,2289,12.4,Low,Road,987,3,6,Yes
+Small Packet,Surat,Chennai,1018,6,Low,Road,2827,2,3,Yes
+Heavy Parcel,Surat,Lucknow,1094,35,Medium,Air,16490.8333333333,4,7,No
+Document,Bangalore,Hyderabad,1828,46.8,High,Rail,1485.56571428571,2,3,Yes
+Parcel,Indore,Pune,2381,47.3,Low,Rail,2468,1,2,Yes
+Heavy Parcel,Mumbai,Jaipur,2554,16.8,Low,Road,2647.32129357413,1,3,No
+Document,Lucknow,Hyderabad,2845,39.1,Low,Rail,3893.70833333333,2,6,Yes
+Heavy Parcel,Bhopal,Hyderabad,690,4.1,Medium,Air,920,2,6,No
+Parcel,Bangalore,Delhi,1442,44.4,High,Rail,9962.92682926829,2,8,No
+Letter,Kolkata,Lucknow,2748,7.4,Medium,Rail,4165.83079056865,4,2,No
+Parcel,Bhopal,Pune,624,6.9,Medium,Rail,2606,1,5,No
+Small Packet,Ahmedabad,Jaipur,2359,26,High,Road,9819.71014492754,2,3,Yes
+Small Packet,Hyderabad,Indore,2672,6.2,Low,Road,620,4,5,Yes
+Small Packet,Delhi,Chennai,129,29.9,Medium,Air,2990,2,4,Yes
+Parcel,Delhi,Ahmedabad,156,17.7,Low,Rail,2789.86046511628,1,5,No
+Letter,Kolkata,Ahmedabad,115,32.4,Low,Road,4757.49152542373,6,7,No
+Letter,Lucknow,Hyderabad,799,13,Medium,Rail,654.012345679012,4,5,Yes
+Parcel,Delhi,Kolkata,2045,45.1,High,Air,2639,2,7,No
+Heavy Parcel,Surat,Hyderabad,953,40.1,High,Air,2346.42793791574,2,3,Yes
+Document,Ahmedabad,Indore,2900,33,High,Air,535.571878279119,2,5,Yes
+Small Packet,Delhi,Jaipur,232,20.2,Medium,Air,1848,2,4,No
+Document,Indore,Jaipur,2503,45,High,Rail,4116.83168316832,2,6,Yes
+Document,Hyderabad,Bangalore,454,13.4,High,Air,1052,2,3,Yes
+Letter,Kolkata,Bhopal,1620,1.2,Low,Rail,3753.83259911894,3,4,Yes
+Heavy Parcel,Lucknow,Ahmedabad,2541,27.7,Medium,Road,39310.9166666667,1,6,Yes
+Letter,Bangalore,Jaipur,1410,29.6,Medium,Air,2916.18772563177,1,4,Yes
+Heavy Parcel,Ahmedabad,Indore,1586,29.6,Low,Rail,2231,5,5,No
+Heavy Parcel,Surat,Pune,151,12.6,High,Rail,2535,2,4,Yes
+Small Packet,Bhopal,Jaipur,1802,47,Low,Air,9455.95238095238,6,1,No
+Heavy Parcel,Mumbai,Chennai,2952,12.7,Medium,Rail,3089.60710321865,4,9,No
+Heavy Parcel,Surat,Bangalore,1319,15.5,Medium,Air,3106.10236220473,4,8,Yes
+Heavy Parcel,Mumbai,Bhopal,2025,47.8,Low,Rail,5452.28387096774,5,8,No
+Parcel,Jaipur,Bangalore,1183,1.3,Medium,Rail,1161,4,3,No
+Small Packet,Jaipur,Pune,425,19.6,Medium,Road,17504.3076923077,4,5,Yes
+Heavy Parcel,Hyderabad,Bhopal,399,22.2,Medium,Rail,2136.18367346939,4,9,Yes
+Parcel,Indore,Bangalore,2131,15.3,Low,Rail,4630.51879699248,4,5,Yes
+Small Packet,Pune,Bangalore,2030,1.2,Medium,Rail,2378.65321445331,4,2,No
+Letter,Kolkata,Kolkata,825,47.1,Low,Road,64056,5,8,No
+Document,Hyderabad,Chennai,211,45.5,High,Air,900,1,7,Yes
+Document,Indore,Bhopal,949,20.9,Low,Rail,4047.8672985782,6,7,No
+Parcel,Bangalore,Mumbai,1558,23,Medium,Road,1751.96172248804,4,3,No
+Letter,Surat,Delhi,1288,17.7,Medium,Rail,1387,3,4,No
+Letter,Indore,Bangalore,758,6.6,High,Air,1621,2,7,No
+Heavy Parcel,Ahmedabad,Pune,543,27.6,Medium,Road,6778.72727272727,3,2,No
+Letter,Mumbai,Ahmedabad,1896,27.7,Low,Road,2028.32246376812,7,8,Yes
+Heavy Parcel,Delhi,Chennai,1852,47.3,Medium,Air,1754,4,7,Yes
+Letter,Pune,Mumbai,1970,14,Low,Air,2177,7,8,Yes
+Letter,Hyderabad,Surat,2633,35.9,Low,Rail,5582.45,6,8,Yes
+Heavy Parcel,Ahmedabad,Mumbai,1156,18.5,Medium,Rail,1764,2,6,No
+Parcel,Kolkata,Delhi,1216,30.2,Low,Rail,2879.61081081081,3,6,Yes
+Letter,Ahmedabad,Bhopal,1324,49.4,High,Air,1961,1,9,Yes
+Document,Lucknow,Delhi,337,41,Medium,Road,1627.55060728745,4,8,No
+Parcel,Pune,Bhopal,246,28.8,High,Rail,856.975609756098,2,3,Yes
+Document,Mumbai,Jaipur,680,0.4,Low,Road,2574,6,5,No
+Heavy Parcel,Delhi,Surat,2655,4,Low,Air,25740,2,5,No
+Small Packet,Bangalore,Surat,2394,49.6,High,Rail,23498,2,6,Yes
+Heavy Parcel,Jaipur,Indore,1790,38.9,Medium,Air,2213,4,5,Yes
+Parcel,Ahmedabad,Hyderabad,1844,13.4,Medium,Rail,2279.76089385475,3,8,Yes
+Letter,Hyderabad,Bhopal,369,19.8,High,Air,1773,2,9,No
+Document,Mumbai,Hyderabad,1924,43.9,Medium,Air,3931.04545454546,3,5,Yes
+Heavy Parcel,Chennai,Mumbai,2290,37.4,High,Air,968.846153846154,2,7,No
+Parcel,Mumbai,Ahmedabad,1191,38.7,Low,Road,824,2,5,No
+Heavy Parcel,Jaipur,Mumbai,101,40.9,High,Road,870.842377260982,2,5,No
+Document,Mumbai,Lucknow,1942,5.1,Medium,Rail,14459.2475247525,4,6,Yes
+Small Packet,Ahmedabad,Delhi,2977,3,Medium,Air,2966.2693099897,4,7,No
+Document,Bhopal,Chennai,2620,9.7,High,Rail,7126.26666666667,2,1,No
+Letter,Pune,Chennai,2430,6.6,Medium,Air,2241,2,4,No
+Document,Bhopal,Jaipur,2804,44.2,High,Air,15007.9090909091,2,6,No
+Parcel,Hyderabad,Kolkata,1415,19.9,Low,Rail,1145,2,7,No
+Small Packet,Bangalore,Pune,798,42.8,High,Rail,2462.61306532663,1,7,Yes
+Heavy Parcel,Bangalore,Kolkata,1414,17.4,Medium,Road,3100.87719298246,4,6,No
+Small Packet,Delhi,Indore,181,33,Low,Air,3768.44827586207,1,2,Yes
+Heavy Parcel,Chennai,Ahmedabad,2189,11.6,Medium,Rail,24466.0055248619,2,6,No
+Letter,Hyderabad,Bhopal,1317,26.2,High,Air,3649.93103448276,2,3,Yes
+Letter,Chennai,Ahmedabad,2308,11.1,Low,Road,1257.01145038168,7,8,Yes
+Parcel,Pune,Pune,2493,18.7,Medium,Air,2409,3,8,No
+Small Packet,Chennai,Jaipur,1348,18.4,Low,Air,2631,7,5,No
+Parcel,Kolkata,Bangalore,345,44.1,Medium,Rail,6305.82065217391,4,6,Yes
+Letter,Lucknow,Kolkata,1099,41.2,Medium,Air,1941.3514739229,4,5,Yes
+Document,Kolkata,Lucknow,2891,37.2,Low,Road,1288.45631067961,2,5,No
+Letter,Indore,Lucknow,1923,2.2,Low,Road,991,5,6,Yes
+Letter,Bangalore,Chennai,1346,32.7,Low,Air,14729.8636363636,1,3,No
+Small Packet,Ahmedabad,Hyderabad,438,20.8,Medium,Road,1548.86850152905,3,6,No
+Parcel,Indore,Hyderabad,2320,47.5,High,Air,3025.84134615385,2,7,No
+Letter,Surat,Bhopal,2182,40.3,Low,Rail,1229,6,8,No
+Parcel,Ahmedabad,Pune,500,31.5,High,Rail,2429,2,8,Yes
+Heavy Parcel,Lucknow,Delhi,2747,40.4,Low,Rail,3115.28888888889,6,7,Yes
+Document,Ahmedabad,Surat,2003,9.7,Medium,Air,1082.80123771387,4,6,No
+Document,Bhopal,Lucknow,2334,41.8,Medium,Rail,3283.67010309278,3,2,No
+Small Packet,Bangalore,Surat,2801,42.5,Medium,Rail,1573,4,8,No
+Letter,Jaipur,Kolkata,140,32.7,High,Rail,1210.28470588235,2,3,Yes
+Parcel,Delhi,Kolkata,2229,24.3,Medium,Road,15029.8285714286,4,8,Yes
+Heavy Parcel,Hyderabad,Chennai,2963,28.2,Medium,Road,1751.18518518519,2,7,Yes
+Document,Bhopal,Indore,2538,45.5,Medium,Road,2805.83333333333,4,8,No
+Heavy Parcel,Bangalore,Indore,1104,2.7,High,Air,468.917257683215,2,3,No
+Heavy Parcel,Pune,Kolkata,2668,27.5,Medium,Rail,1834,4,8,Yes
+Small Packet,Chennai,Lucknow,1463,20.5,High,Air,1367.16363636364,2,6,Yes
+Small Packet,Ahmedabad,Mumbai,1765,9.9,Medium,Air,2173,2,5,No
+Heavy Parcel,Hyderabad,Chennai,1936,48.6,Medium,Rail,10667.4545454546,4,3,No
+Letter,Mumbai,Jaipur,2591,37.3,Medium,Air,517.288065843621,2,3,Yes
+Document,Ahmedabad,Hyderabad,165,11.6,Medium,Air,2720,4,9,No
+Heavy Parcel,Hyderabad,Chennai,2523,47.5,Medium,Air,11137.9310344828,2,5,No
+Small Packet,Ahmedabad,Kolkata,2825,25.5,Medium,Rail,1151.52631578947,3,7,Yes
+Letter,Chennai,Mumbai,714,26.8,Low,Rail,1616,7,8,Yes
+Document,Chennai,Ahmedabad,2034,27.9,High,Road,4603.56302521008,2,6,Yes
+Parcel,Chennai,Bangalore,1771,22.3,Low,Road,1979.82437275986,7,2,No
+Heavy Parcel,Lucknow,Bangalore,558,28.7,Low,Rail,1080,1,7,No
+Letter,Bangalore,Ahmedabad,2051,36.7,High,Rail,1381.04529616725,2,5,Yes
+Heavy Parcel,Hyderabad,Ahmedabad,2878,8.4,Medium,Air,1342.879570941,4,5,Yes
+Letter,Kolkata,Indore,1107,31.4,High,Road,4108.16666666667,2,6,No
+Heavy Parcel,Mumbai,Bangalore,1035,20.9,Low,Air,1283,7,8,No
+Heavy Parcel,Pune,Bangalore,1806,38.6,Low,Rail,2369.55980861244,3,4,Yes
+Document,Kolkata,Chennai,2703,13.5,High,Road,2538.36544850498,2,4,No
+Small Packet,Lucknow,Kolkata,2909,16.9,High,Air,2190,2,6,No
+Small Packet,Pune,Bangalore,2079,40.4,Medium,Rail,5235.26627218935,4,6,Yes
+Heavy Parcel,Indore,Delhi,2574,29.9,Medium,Rail,2967.71428571429,4,5,Yes
+Parcel,Surat,Bangalore,1149,37.2,High,Rail,2616.44147157191,2,5,Yes
+Document,Jaipur,Indore,2769,45.5,Low,Road,2637.04301075269,5,6,Yes
+Letter,Indore,Chennai,2010,32.4,Low,Rail,1810,3,8,Yes
+Heavy Parcel,Ahmedabad,Lucknow,489,42.8,High,Air,2916,1,9,No
+Document,Lucknow,Jaipur,2950,16.7,Medium,Road,1137.78504672897,3,4,Yes
+Parcel,Kolkata,Pune,585,9.1,Medium,Air,1592,4,4,No
+Small Packet,Hyderabad,Mumbai,1091,32.1,Medium,Road,5615.73626373626,2,6,No
+Document,Hyderabad,Bangalore,1998,14.2,Medium,Air,4105.88084326306,4,4,No
+Parcel,Mumbai,Chennai,1924,8.1,Medium,Air,2023.18518518519,4,9,Yes
+Letter,Kolkata,Chennai,564,24.4,Low,Air,4657.08641975309,4,5,No
+Letter,Jaipur,Hyderabad,1033,35.7,Medium,Rail,2706.76229508197,2,5,Yes
+Small Packet,Lucknow,Surat,2872,9.8,Low,Air,6903.36495643756,7,8,Yes
+Heavy Parcel,Mumbai,Jaipur,477,12.7,High,Road,2912,2,3,Yes
+Letter,Pune,Bhopal,2189,30,Low,Air,6878.74015748032,1,4,Yes
+Document,Bhopal,Chennai,574,19.5,Low,Road,1456,2,6,Yes
+Small Packet,Mumbai,Hyderabad,2314,23.4,High,Air,5869.65853658537,2,6,Yes
+Document,Hyderabad,Mumbai,1398,48.9,Medium,Rail,4166.94871794872,3,4,Yes
+Document,Hyderabad,Kolkata,859,49.8,Medium,Air,2495.09202453988,4,8,No
+Document,Indore,Bhopal,923,2.4,Medium,Air,1542,4,7,Yes
+Document,Hyderabad,Pune,1378,5,Low,Air,3212.5,1,5,No
+Letter,Lucknow,Bangalore,902,42.8,Medium,Road,20227.28,2,8,No
+Letter,Ahmedabad,Kolkata,2674,33.9,Medium,Rail,1741,4,4,No
+Document,Pune,Indore,248,17.4,Low,Air,1361,7,8,Yes
+Parcel,Surat,Pune,856,29,Medium,Rail,4697.64516129032,4,5,Yes
+Letter,Kolkata,Pune,112,0.5,High,Road,2452,2,6,No
+Letter,Mumbai,Indore,1589,14.1,High,Road,69146.4,2,3,Yes
+Letter,Mumbai,Surat,2485,28.1,Medium,Air,2554.90780141844,3,7,No
+Document,Kolkata,Surat,970,5,High,Road,2546,1,4,Yes
+Document,Ahmedabad,Jaipur,1413,14.6,Medium,Road,7434.32,1,9,No
+Heavy Parcel,Surat,Jaipur,1147,15.9,Medium,Road,2651,1,1,No
+Document,Surat,Mumbai,169,7.9,High,Rail,2537,2,8,No
+Parcel,Surat,Indore,1517,11.2,Low,Road,3596.75949367089,6,8,No
+Small Packet,Delhi,Jaipur,591,13.6,Medium,Road,3359.92857142857,2,6,No
+Parcel,Bangalore,Delhi,321,42.8,Medium,Road,6634,3,4,Yes
+Small Packet,Bangalore,Ahmedabad,440,24.2,Medium,Rail,1298.20560747664,4,8,No
+Letter,Jaipur,Pune,1353,30.6,Low,Road,1587,4,4,No
+Parcel,Lucknow,Surat,416,24.8,Low,Rail,1286.19607843137,7,9,Yes
+Small Packet,Hyderabad,Chennai,2772,39.6,Low,Road,1432.3064516129,1,5,No
+Small Packet,Hyderabad,Jaipur,590,16.4,Medium,Rail,1252,3,4,Yes
+Document,Delhi,Pune,1969,28.2,High,Rail,4178.28474576271,2,6,No
+Document,Surat,Chennai,475,4,Low,Air,665,6,8,Yes
+Heavy Parcel,Hyderabad,Kolkata,998,23.9,High,Air,3973.375,2,3,No
+Small Packet,Kolkata,Ahmedabad,717,8.8,Medium,Rail,2412,1,5,No
+Small Packet,Kolkata,Indore,1994,29.7,Medium,Rail,8140.5,4,5,Yes
+Heavy Parcel,Lucknow,Kolkata,1257,19.1,High,Road,1541,2,2,No
+Small Packet,Kolkata,Bangalore,1245,30.8,Medium,Road,2484.96335078534,4,8,No
+Document,Surat,Delhi,1320,37.3,Low,Road,2573.45779220779,6,2,No
+Small Packet,Kolkata,Hyderabad,986,24.2,Medium,Rail,2214,1,6,Yes
+Parcel,Chennai,Lucknow,1740,27.4,Medium,Rail,2506.76033057851,2,2,No
+Letter,Hyderabad,Ahmedabad,2572,35.6,Low,Road,1986.58394160584,4,5,Yes
+Heavy Parcel,Jaipur,Delhi,2918,11,Low,Air,1470,7,6,No
+Letter,Bhopal,Delhi,1819,29.5,Low,Air,3942.27272727273,1,4,Yes
+Parcel,Chennai,Mumbai,1182,9.7,Medium,Rail,1122,4,8,Yes
+Document,Surat,Ahmedabad,1025,41.9,Medium,Road,4846.57731958763,1,4,No
+Heavy Parcel,Pune,Mumbai,903,36,Low,Air,1731.26491646778,2,5,No
+Document,Bhopal,Hyderabad,893,41.8,Medium,Air,1939.05555555556,3,9,Yes
+Parcel,Mumbai,Ahmedabad,1448,9.4,High,Air,2086.8712206047,2,6,No
+Heavy Parcel,Indore,Kolkata,609,28.1,High,Rail,2442,2,6,No
+Heavy Parcel,Bhopal,Kolkata,1536,42.3,High,Rail,3676.03558718861,2,5,Yes
+Letter,Jaipur,Delhi,1188,7.1,Medium,Rail,766,4,5,Yes
+Document,Jaipur,Bhopal,1972,31,Medium,Air,3344.50704225352,2,3,No
+Heavy Parcel,Delhi,Indore,1655,37.1,High,Rail,2060.84516129032,2,7,No
+Parcel,Delhi,Ahmedabad,2825,8.8,Low,Road,2888.15709969789,2,5,No
