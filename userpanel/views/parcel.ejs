@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parcel Information Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h1 {
+            color: #007BFF;
+        }
+
+        .form-container {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 100%;
+            max-width: 500px;
+            box-sizing: border-box;
+        }
+
+        .form-container div {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input[type="text"], select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .error {
+            color: red;
+            font-size: 0.875em;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>Parcel Information Form</h1>
+        <form action="/submit-parcel" method="POST">
+            <div>
+                <label for="parcelType">Parcel Type:</label>
+                <select id="parcelType" name="parcelType" required>
+                    <option value="document">Document</option>
+                    <option value="package">Package</option>
+                    <option value="fragile">Fragile</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+
+            <div>
+                <label for="transportMode">Transport Mode:</label>
+                <select id="transportMode" name="transportMode" required>
+                    <option value="air">Air</option>
+                    <option value="sea">Sea</option>
+                    <option value="land">Land</option>
+                    <option value="rail">Rail</option>
+                </select>
+            </div>
+
+            <div>
+                <label for="shippingTime">Shipping Time:</label>
+                <input type="text" id="shippingTime" name="shippingTime" placeholder="e.g., 3-5 days" required>
+            </div>
+
+            <div>
+                <label for="parcelPriority">Parcel Priority:</label>
+                <select id="parcelPriority" name="parcelPriority" required>
+                    <option value="low">Low</option>
+                    <option value="medium">Medium</option>
+                    <option value="high">High</option>
+                </select>
+            </div>
+
+            <div>
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
